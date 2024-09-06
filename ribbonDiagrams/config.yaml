@@ -1,0 +1,22 @@
+color_dict:
+  1: "#2f4f4f"
+  2: "#7f0000"
+  3: "#008000"
+  4: "#2e5a88"
+  5: "#ff8c00"
+  6: "#ffbf00"
+  7: "#00ff00"
+  8: "#cc8899"
+  9: "#ff00ff"
+  10: "#1e90ff"
+  11: "#795c32"
+  12: "#ff2800"
+species_list_in_order: ["Bdis", "Lpe", "Hvul", "Tae", "OsaK", "Pvir", "Phal", "Svir", "MsinH", "Sspo", "Sbic", "Zma"]
+hog_file: "/pscratch/sd/m/mashiana/mcscanHmmGrass/confusionMatrix.tsv"
+bed_path: "/pscratch/sd/m/mashiana/mcscanHmmGrass/"
+e_cutoff: -23
+gene_count_cutoff: 25
+synteny_file: "/pscratch/sd/m/mashiana/mcscanHmmGrass/forSyntenyE23.clust.tsv"
+post_prob: 1
+strand_count_cutoff: 75
+output_directory: "/pscratch/sd/m/mashiana/mcscanHmmGrass/anchors/"
