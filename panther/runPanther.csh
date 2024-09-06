@@ -1,5 +1,7 @@
 #!/bin/tcsh
 
+# Incomplete, paths are still hardcoded for testing
+
 set species = $1
 set num_threads = 8
 
